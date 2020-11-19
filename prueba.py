@@ -4,4 +4,4 @@
 # Creador: David
 # - Imprimir "Hola mundo"
 
-print("Hola Mundo Programación Profesional")
+print("Hola Estudiantes de Programación Profesional 2020")
